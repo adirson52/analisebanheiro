@@ -1,1 +1,1 @@
-window.FCUAccessConfig={"id":"saneamento","title":"Análise de saneamento","storageKey":"fcu-saneamento-auth-v1","standalone":true};
+window.FCUAccessConfig={"id":"saneamento","title":"Saneamento FCU","storageKey":"fcu-saneamento-auth-v1","standalone":true,"usageTracking":true};
