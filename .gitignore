@@ -2,3 +2,8 @@
 *.gpkg
 __pycache__/
 *.pyc
+.vercel/
+node_modules/
+dist/
+.env*
+.vercel
